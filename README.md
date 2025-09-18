@@ -2,7 +2,7 @@
 ---
 
 ## Project Goal
-[Full Business Summary (PDF)](amazon_product_business_summary.pdf)
+[Full Business Summary (PDF)](04_amazon_predictive_model_business_summary.pdf)
 
 This project involves creating a predictive model using logistic regression.
 
@@ -11,13 +11,15 @@ The goal of this project is to pinnpoint the most important product features whe
 ---
 
 ## Preview of Key Findings 
-- Category and brand have the highest influence on whether a product is highly rated or not.
+
+Category and brand have the highest influence on whether a product is highly rated or not.
 --- 
 
-## Business Strategies and Recommendations (Preview)
+## Business Recommendations (Preview)
 
-- **Pricing** - Sellers on Amazon should prioritize low to mid end prices, considering most fashion products are not high-end on Amazon, in terms of pricing.
-- **Prioritization** - Companies selling bags should prioritize Amazon as one of their main channels, as bags are highly rated on Amazon.
+- Sellers on Amazon should prioritize selling their products in highly rated categories, i.e "Sportswear", to maximize their chances of reaching the highest sales.
+  
+- Although pricing may be a factor for companies and deciding their profits, higher/lower pricing doesn't automatically lead to more sales.
 
 ---
 
