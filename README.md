@@ -1,1 +1,1 @@
-# amazon-fashion-sales-predictive-model
+# Amazon Fashion Sales Predictive Model
