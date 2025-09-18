@@ -12,7 +12,7 @@ The goal of this project is to pinnpoint the most important product features whe
 
 ## Preview of Key Findings 
 
-Category and brand have the highest influence on whether a product is highly rated or not.
+- Category and brand have the highest influence on whether a product is highly rated or not.
 --- 
 
 ## Business Recommendations (Preview)
