@@ -19,17 +19,17 @@ The goal of this project is to pinnpoint the most important product features whe
 
 - Sellers on Amazon should prioritize selling their products in highly rated categories, i.e "Sportswear", to maximize their chances of reaching the highest sales.
   
-- Although pricing may be a factor for companies and deciding their profits, higher/lower pricing doesn't automatically lead to more sales.
+- Although pricing may be a factor for companies and deciding their profits, higher/lower pricing doesn't automatically lead to more product sales.
 
 ---
 
 ## Visual Highlights
 
-| Type of Visualization | Description |
+| Visualization | Description |
 |-----------------------|-------------|
-| [Correlation Heatmap](images/correlation_heatmap_price_rating.png) | Minimal relationship between price and ratings |
-| [Price Distribution Histogram](images/price_distribution.png) | Market dominated by low to mid-range pricing |
-| [Ratings per Category Boxplot](images/rating_distribution_per_cat.png) | Most categories are rated between 4.0 and 5.0 stars |
+| [Confusion Matrix](images/correlation_heatmap_price_rating.png) | Model |
+| [Roc Curve Plot](images/price_distribution.png) | Market dominated by low to mid-range pricing |
+|
 
 
 
