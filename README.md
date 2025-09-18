@@ -23,7 +23,7 @@ The goal of this project is to pinnpoint the most important product features whe
 
 ---
 
-## Visual Highlights
+## Model Visualizations
 
 | Visualization | Description |
 |-----------------------|-------------|
@@ -31,10 +31,7 @@ The goal of this project is to pinnpoint the most important product features whe
 | [Roc Curve Plot](images/price_distribution.png) | Market dominated by low to mid-range pricing |
 |
 
-
-
-
-## Data & Methods
+## Tools Used
 - **Dataset** – Cleaned around 1,800 rows
 - **Tools** – Python, Pandas, NumPy, Matplotlib, Seaborn.  
 - **Notebook** – See [`03_amazon_fashion_sales_eda_analysis.ipynb`](03_amazon_fashion_eda.ipynb) for full EDA workflow.
