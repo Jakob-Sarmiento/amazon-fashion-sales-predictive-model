@@ -34,7 +34,7 @@ The goal of this project is to pinnpoint the most important product features whe
 ## Tools Used
 - **Tools** – Python, pandas, numpy, scikit-learn, matplotlib
 - **Environment** - Google Colab
-- **Notebook** – See [`Full Predictive Model - Code`](03_amazon_sales_products_predictive_model (2).ipynb) for full EDA workflow.
+- **Notebook** – [`03_amazon_sales_products_predictive_model (2).ipynb`](Full Predictive Model - Python Code)
 
 ---
 
