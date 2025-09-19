@@ -3,13 +3,13 @@
 ## Project Goal
 [Full Business Summary (PDF)](04_amazon_predictive_model_business_summary.pdf)
 
-This project builds a **logistic regression model** to identify which product features most strongly drive high customer ratings on Amazon Fashion.
+This project builds a logistic regression model to identify which product features most strongly drive high customer ratings on Amazon Fashion.
 
 ---
 
 ## Key Findings
-- **Category** and **brand** have the strongest influence on whether a product is highly rated.
-- **Price** shows minimal direct impact on ratings.
+- Category and brand have the strongest influence on whether a product is highly rated.
+- Price shows minimal direct impact on ratings.
 
 ---
 
