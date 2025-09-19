@@ -1,44 +1,41 @@
-# Amazon Fashion Sales - Predictive Model
----
+# Amazon Fashion Sales – Predictive Model
 
 ## Project Goal
 [Full Business Summary (PDF)](04_amazon_predictive_model_business_summary.pdf)
 
-This project involves creating a predictive model using logistic regression.
-
-The goal of this project is to pinnpoint the most important product features when it comes to product ratings.
+This project builds a **logistic regression model** to identify which product features most strongly drive high customer ratings on Amazon Fashion.
 
 ---
 
-## Preview of Key Findings 
+## Key Findings
+- **Category** and **brand** have the strongest influence on whether a product is highly rated.
+- **Price** shows minimal direct impact on ratings.
 
-- Category and brand have the highest influence on whether a product is highly rated or not.
---- 
+---
 
-## Business Recommendations (Preview)
-
-- Sellers on Amazon should prioritize selling their products in highly rated categories, i.e "Sportswear", to maximize their chances of reaching the highest sales.
-  
-- Although pricing may be a factor for companies and deciding their profits, higher/lower pricing doesn't automatically lead to more product sales.
+## Business Recommendations
+- **Focus on top-rated categories** – e.g., “Sportswear” – to maximize sales potential.
+- **Avoid pricing assumptions** – Higher or lower prices do not directly translate to more product sales.
 
 ---
 
 ## Model Visualizations
 
 | Visualization | Description |
-|-----------------------|-------------|
-| [Confusion Matrix](visualizations/confusion_matrix.png) | Confusion matrix shows a majority of true positives, displaying how accurate the model's predictions were. |
-| [Roc Curve Plot](visualizations/roc_curve_plot.png) | Most of the model's predictions were accurate, with an AUC of .836. |
-
-
-## Tools Used
-- **Tools** – Python, pandas, numpy, scikit-learn, matplotlib
-- **Environment** - Google Colab
-- **Notebook** – See [Full Predictive Model Workflow](03_amazon_sales_products_predictive_model.ipynb) for full code
-
+|---------------|------------|
+| ![Confusion Matrix](visualizations/confusion_matrix.png) | Shows a majority of true positives, illustrating the model’s accuracy. |
+| ![ROC Curve Plot](visualizations/roc_curve_plot.png) | Displays strong model performance with an AUC of 0.836. |
 
 ---
 
+## Tools Used
+- **Languages & Libraries** – Python, pandas, numpy, scikit-learn, matplotlib  
+- **Environment** – Google Colab  
+- **Notebook** – [Full Predictive Model Workflow](notebooks/03_amazon_sales_products_predictive_model.ipynb)
+  
+---
+
 ## Next Steps
-- **Track exact numbers** – Extract KPIs including category growth rates, review volumes, and price–rating relationships to measure the trends discovered in the initial EDA.  
-- **E-commerce platform comparison** – Perform EDA on other e-commerce platforms to compare category and product performance.
+- **Track key KPIs** – Category growth rates, review volumes, and price–rating relationships.  
+- **Benchmark other platforms** – Extend analysis to other e-commerce sites to compare category and product performance.
+
