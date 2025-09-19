@@ -1,4 +1,4 @@
-# Amazon Fashion Sales Predictive Model
+# Amazon Fashion Sales - Predictive Model
 ---
 
 ## Project Goal
