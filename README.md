@@ -32,9 +32,9 @@ The goal of this project is to pinnpoint the most important product features whe
 
 
 ## Tools Used
-- **Dataset** – Cleaned around 1,800 rows
-- **Tools** – Python, Pandas, NumPy, Matplotlib, Seaborn.  
-- **Notebook** – See [`03_amazon_fashion_sales_eda_analysis.ipynb`](03_amazon_fashion_eda.ipynb) for full EDA workflow.
+- **Tools** – Python, pandas, numpy, scikit-learn, matplotlib
+- **Environment** - Google Colab
+- **Notebook** – See [`Full Predictive Model - Code`](03_amazon_sales_products_predictive_model (2).ipynb) for full EDA workflow.
 
 ---
 
