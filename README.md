@@ -14,8 +14,8 @@ This project builds a logistic regression model to identify which product featur
 ---
 
 ## Business Recommendations
-- **Focus on top-rated categories** – e.g., “Sportswear” – to maximize sales potential.
-- **Avoid pricing assumptions** – Higher or lower prices do not directly translate to more product sales.
+- Focus on top-rated categories – e.g., “Sportswear” – to maximize sales potential.
+- Avoid pricing assumptions – Higher or lower prices do not directly translate to more product sales.
 
 ---
 
