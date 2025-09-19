@@ -28,13 +28,14 @@ The goal of this project is to pinnpoint the most important product features whe
 | Visualization | Description |
 |-----------------------|-------------|
 | [Confusion Matrix](visualizations/confusion_matrix.png) | Model |
-| [Roc Curve Plot](visualizations/roc_curve_plot.png) | Market dominated by low to mid-range pricing |
+| [Roc Curve Plot](visualizations/roc_curve_plot.png) | Most of the mode's predictions were accurate, with an AUC of .836. |
 
 
 ## Tools Used
 - **Tools** – Python, pandas, numpy, scikit-learn, matplotlib
 - **Environment** - Google Colab
-- **Notebook** – See [`03_amazon_sales_products_predictive_model (2).ipynb`](03_amazon_sales_products_predictive_model (2).ipynb) for full EDA workflow.
+- **Notebook** – See [03_amazon_sales_products_predictive_model.ipynb](notebooks/03_amazon_sales_products_predictive_model.ipynb) for the full EDA and predictive-model workflow.
+
 
 ---
 
