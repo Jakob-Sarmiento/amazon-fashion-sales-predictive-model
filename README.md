@@ -27,7 +27,7 @@ The goal of this project is to pinnpoint the most important product features whe
 
 | Visualization | Description |
 |-----------------------|-------------|
-| [Confusion Matrix](visualizations/confusion_matrix.png) | Confusion matrix shows a majority of true positives, displaying how accurate the model's predictions were |
+| [Confusion Matrix](visualizations/confusion_matrix.png) | Confusion matrix shows a majority of true positives, displaying how accurate the model's predictions were. |
 | [Roc Curve Plot](visualizations/roc_curve_plot.png) | Most of the model's predictions were accurate, with an AUC of .836. |
 
 
