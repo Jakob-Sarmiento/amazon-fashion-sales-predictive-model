@@ -36,6 +36,6 @@ This project builds a logistic regression model to identify which product featur
 ---
 
 ## Next Steps
-- **Track key KPIs** – Category growth rates, review volumes, and price–rating relationships.  
-- **Benchmark other platforms** – Extend analysis to other e-commerce sites to compare category and product performance.
+- **Explore other models** – Create other logistic regression models, like a decision tree, to ensure or validate the accuracy of predictions. 
+- **Build a comparative model** – Build a table or dashboard that lets users compare different product features, like price, brand, and rating.
 
