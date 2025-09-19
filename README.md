@@ -27,9 +27,9 @@ The goal of this project is to pinnpoint the most important product features whe
 
 | Visualization | Description |
 |-----------------------|-------------|
-| [Confusion Matrix](images/correlation_heatmap_price_rating.png) | Model |
-| [Roc Curve Plot](images/price_distribution.png) | Market dominated by low to mid-range pricing |
-|
+| [Confusion Matrix](visualizations/confusion_matrix.png) | Model |
+| [Roc Curve Plot](visualizations/roc_curve_plot.png) | Market dominated by low to mid-range pricing |
+
 
 ## Tools Used
 - **Dataset** – Cleaned around 1,800 rows
